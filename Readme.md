@@ -41,7 +41,7 @@ git log --oneline --graph --decorate
 ```
 ## Git Show
 ```
-git show 4dde
+git show ac8
 git show HEAD
 git show HEAD^
 git show HEAD^^
@@ -51,7 +51,7 @@ git HEAD~5
 
 ## Git Blame
 ```
-git blame 
+git blame readme.md
 ```
 
 ## Git ls-tree
@@ -83,7 +83,7 @@ git rm --cached <filename>
 git diff //working area and index
 git diff --cached //repo
 git diff 
-git diff 9f53..4dde
+git diff ac8..48d
 git diff HEAD..HEAD~2 //Move back
 git diff HEAD~2..HEAD // Move forword
 ```
