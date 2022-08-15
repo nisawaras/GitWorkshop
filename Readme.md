@@ -63,3 +63,8 @@ git rm <filename>
 git rm --cached <filename>
 
 ```
+## Git diff
+```
+git diff
+git diff --cached
+```
