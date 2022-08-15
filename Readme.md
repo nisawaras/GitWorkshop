@@ -56,3 +56,10 @@ git commit --amend -m "commit and add new message"
 git remote add origin <URL of remote repository>
 git remote -v
 ```
+
+## Git Remove(git rm)
+```
+git rm <filename>
+git rm --cached <filename>
+
+```
