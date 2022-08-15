@@ -3,7 +3,7 @@
 ### local
 ```
 git config --local user.name "Nisawara"
-git config --local user.email "j.nisawara@gmai.com"
+git config --local user.email "j.nisawara@gmail.com"
 ```
 
 ### Global
